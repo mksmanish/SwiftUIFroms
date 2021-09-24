@@ -1,4 +1,4 @@
-# SwiftUIFroms
+# SwiftUIForms
 This consists of demo to create forms using swiftUI,using textfields,toggleButtons.<br>
 this also contains the ways to create form in swiftUI CODE.<br>
 <br>
